@@ -1,6 +1,6 @@
 # newspaper-scraping
 
-simple newspaper scrapin example with [newspaper3k](https://newspaper.readthedocs.io) and [Natural Language Tool Kit](https://www.nltk.org/)
+simple newspaper scraping example with [newspaper3k](https://newspaper.readthedocs.io) and [Natural Language Tool Kit](https://www.nltk.org/)
 
 ## install
 
@@ -14,7 +14,7 @@ pip install -r requirements.txt
 python scrap.py
 ```
 
-## scraped aricles
+## scraped articles
 
 * [lemonde.fr](scraped-articles/lemonde.fr.md)
 * [lamontagne.fr](scraped-articles/lamontagne.fr.md)
