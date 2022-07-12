@@ -1,3 +1,5 @@
+## url
+[https://www.continental.com/en/press/press-releases/20220511-q1-2022/](https://www.continental.com/en/press/press-releases/20220511-q1-2022/)
 ## title
 First Quarter 2022: Continental Reports Strong Tire Business in the First Quarter
 ## content
@@ -57,7 +59,7 @@ Adjusted free cash flow is expected to be around €0.6 billion to €1.0 billio
 ## publish date
 2022-05-11 00:00:00
 ## keywords
-['billion', 'million', 'reports', 'group', 'adjusted', 'tire', 'sales', 'strong', 'sector', 'production', 'business', 'continental', '2022', '2021', 'quarter', 'q1', 'previously']
+['production', 'reports', '2021', 'sales', 'group', 'sector', 'q1', 'previously', 'tire', 'adjusted', 'continental', 'strong', 'business', 'million', '2022', 'quarter', 'billion']
 ## authors
 []
 ## top image

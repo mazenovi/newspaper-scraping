@@ -1,3 +1,5 @@
+## url
+[https://www.hankooktire.com/global/en/company/media-list/media-detail.600090.html](https://www.hankooktire.com/global/en/company/media-list/media-detail.600090.html)
 ## title
 Hankook Tire announces 2022 Q1 financial results
 ## content
@@ -63,7 +65,7 @@ Q1 2022 Consolidated Financial Result(Unit: Billion KRW) Q1 FY 2021 Q4 FY 2021 Q
 ## publish date
 None
 ## keywords
-['tires', 'profit', 'tire', 'sales', 'yoy', 'announces', 'hankook', 'results', '2022', '2021', 'fy', 'krw', 'financial', 'q1']
+['tires', '2021', 'sales', 'yoy', 'krw', 'announces', 'hankook', 'results', 'fy', 'profit', '2022', 'tire', 'q1', 'financial']
 ## authors
 []
 ## top image

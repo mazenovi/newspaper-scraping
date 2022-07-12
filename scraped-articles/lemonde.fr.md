@@ -1,3 +1,5 @@
+## url
+[https://www.lemonde.fr/international/article/2022/06/30/face-a-vladimir-poutine-emmanuel-macron-manie-la-diplomatie-des-fuites_6132651_3210.html](https://www.lemonde.fr/international/article/2022/06/30/face-a-vladimir-poutine-emmanuel-macron-manie-la-diplomatie-des-fuites_6132651_3210.html)
 ## title
 Face à Vladimir Poutine, Emmanuel Macron manie la diplomatie des « fuites »
 ## content
@@ -27,7 +29,7 @@ Un premier visionnage s’est tenu courant mai, le second juste après le dépla
 ## publish date
 2022-06-30 00:00:00
 ## keywords
-['et', 'le', 'les', 'russe', 'que', 'à', 'vladimir', 'la', 'poutine', 'diplomatie', 'face', 'emmanuel', 'manie', 'macron', 'été', 'fuites']
+['macron', 'vladimir', 'poutine', 'le', 'été', 'et', 'fuites', 'à', 'les', 'diplomatie', 'la', 'emmanuel', 'manie', 'russe', 'que', 'face']
 ## authors
 ['Rafaële Rivais', 'Agnès Crépet', 'Responsable De La Longévité Des Logiciels Et De L Informatique Chez Fairphone', 'Lorraine De Foucher', 'Elvire Von Bardeleben', 'Ariane Chemin', 'Philippe Ricard']
 ## top image

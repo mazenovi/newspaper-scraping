@@ -20,6 +20,8 @@ for key in artciles:
     article.parse()
     article.nlp()
     
+    f.write('## url\n')
+    f.write('[' + artciles[key] + '](' + artciles[key] + ')' + '\n')
     f.write('## title\n')
     f.write(article.title + '\n')
     f.write('## content\n')

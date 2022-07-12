@@ -1,3 +1,5 @@
+## url
+[https://www.lamontagne.fr/chamalieres-63400/actualites/le-demenagement-de-l-imprimerie-de-la-banque-de-france-a-vic-le-comte-puy-de-dome-enfin-sur-les-rails_14159350/](https://www.lamontagne.fr/chamalieres-63400/actualites/le-demenagement-de-l-imprimerie-de-la-banque-de-france-a-vic-le-comte-puy-de-dome-enfin-sur-les-rails_14159350/)
 ## title
 Le déménagement de l'imprimerie de la Banque de France à Vic-le-Comte (Puy-de-Dôme) enfin sur les rails
 ## content
@@ -49,7 +51,7 @@ Ce que l'on sait de l'incendie à la Banque de France à Chamalières (Puy-de-D�
 ## publish date
 2022-07-12 18:54:00+02:00
 ## keywords
-['en', 'des', 'limprimerie', 'le', 'rails', 'banque', 'viclecomte', 'puydedôme', 'les', 'à', 'la', 'france', 'sur', 'du', 'et']
+['le', 'des', 'banque', 'et', 'à', 'les', 'france', 'limprimerie', 'viclecomte', 'la', 'sur', 'du', 'rails', 'puydedôme', 'en']
 ## authors
 ['Centre France']
 ## top image
